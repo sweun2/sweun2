@@ -5,6 +5,9 @@ I'm an undergraduate student at KyungHee University majoring in Computer Enginee
 I'm interested in
 #### Web sever Programming / Cloud Computing
 
+### Experience
+- Student representative of KyungHee Univ, Department of C.E
+
 🛠️ Stacks
 
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"/></a>
@@ -17,3 +20,5 @@ I'm interested in
 
 🐱 Social
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sweun3@gmail.com)](sweun3@gmail.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustKode&show_icons=true&theme=react)

@@ -8,8 +8,10 @@ I'm interested in
 ### Experience
 - Student representative of KyungHee Univ, Department of C.E
 
-🛠️ Stacks
+### 2018 ~ 2019 git repository
+https://github.com/illgami784
 
+🛠️ Stacks
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff"/><a/>

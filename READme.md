@@ -6,7 +6,7 @@ I'm interested in
 #### Web sever Programming / Cloud Computing
 
 ### Experience
-- Student representative of KyungHee Univ, Department of C.E
+- Student of KyungHee Univ, Department of C.E
 
 ### 2018 ~ 2019 git repository
 https://github.com/illgami784

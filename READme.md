@@ -7,6 +7,7 @@ I'm interested in
 
 ### Experience
 - Student of KyungHee Univ, Department of C.E
+- Backend Engineer at AI Career (직행, https://www.zighang.com) 
 
 ### 2018 ~ 2019 git repository
 https://github.com/illgami784
